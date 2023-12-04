@@ -35,8 +35,16 @@ Provide step-by-step instructions on how to install and set up your project. Inc
 
 ```bash
 # to run client
+npm create vite@latest
+npm install -D tailwindcss
+npx tailwindcss init
 npm run dev
 
-```bash
 # to run server
+npm install cloudinary
+npm install cors
+npm install openai
+npm install mongoose
+npm install nodemon
+npm install dotenv
 npm start
