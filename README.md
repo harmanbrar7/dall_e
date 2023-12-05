@@ -7,28 +7,12 @@ Database/Cloud management with MongoDB and Cloudinary
 
 ![Screen Shot 2023-12-02 at 7 58 05 PM](https://github.com/harmanbrar7/dall_e/assets/89001739/aaa00521-421d-4235-be6c-3b906e5ba892)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-
-## Introduction
-
-Scalable online platform that allows users to buy and sell items. Users can message each other with a full interactive inbox. 
-Items can be categorized and searched through filters. 
-
-## Demo
-
-Tested images and video provided in Folder 'Demo'
-Video is 3x sped up for convenience
-
 ## Installation
 
 Use the following documentation for setup:
 - https://tailwindcss.com/docs/installation
 - https://vitejs.dev/guide/
+- https://platform.openai.com/docs/api-reference
 
 ```bash
 # to run client
@@ -45,3 +29,9 @@ npm install mongoose
 npm install nodemon
 npm install dotenv
 npm start
+
+## Demo
+
+Tested images and video provided in Folder 'Demo'
+Video is 3x sped up for convenience
+
